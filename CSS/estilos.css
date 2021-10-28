@@ -1,0 +1,182 @@
+body {
+	background-image: url(https://static2.lolwallpapers.net/2016/09/57e172aea297c.jpg);
+	background-attachment: fixed;
+}
+
+
+	header{
+	margin: 0px auto;
+	background-image: url(http://as01.epimg.net/esports/imagenes/2016/09/26/league_of_legends/1474913191_323561_1474940037_noticia_normal.jpg);
+	background-repeat: no-repeat;
+	width: 1000px;
+	height: 446px;
+	border:2px solid black;
+}
+
+
+h1{
+	text-align: center;
+	color: black;
+	text-decoration: underline;
+	background-color: transparent;
+	font-size: 20px;
+	padding: 20px 15px;
+	margin-top: 15px;
+	border: 2px solid black;
+	color: pink;
+  	display: inline-block;
+  	background-color: darkred;
+}
+h2{
+	color: darkred;
+	text-align: center;
+	font-size: 66px;
+}
+h3{
+	text-align: center;
+	font-size: 70px;
+	color: red;
+}
+
+p{
+	text-align: left;
+	font-size: 25px;
+
+}
+.destacado{
+	border: double;
+	background-color: darkviolet;
+	padding: 0px 74px;
+}
+.btn { background-color: pink;
+	text-decoration: none;
+	border: 30px;
+	border-radius: 10px;
+	padding: 15px;
+	color: darkviolet;
+}
+a:hover{
+	color: violet;
+	background-color: hotpink;
+}
+section{
+	padding: 40px;
+	margin-top: 33px;
+	width: 850px;
+}
+footer{
+	color: black;
+	font-size: 22px;
+	padding: 5px;
+	text-align: center;
+	border-radius: 10px;
+	margin: 5px;
+}
+section.kk{
+	color: darkred;
+	background-color: hotpink;
+	font-size: 35px;
+	padding: 10px;
+	margin: 0px auto;
+	border: black 2px solid;
+	margin-top: 10px;
+	width: 980px;
+	}
+
+img{
+	text-align: center;
+	border-radius: 20px;
+	float: none;
+}
+
+table {
+   width: 100%;
+}
+th, td {
+   width: 25%;
+}
+
+.ancho {
+	margin: 0px auto;
+	display: block;
+}
+
+.asd  {
+	background-color: violet;
+	padding: 0px 75px 10px;
+	border: black solid 2px;
+	margin-top: 10px;
+}
+
+#logo {
+	width: 24%;
+	float: right;
+}
+
+.asd2  {
+	background-color: violet;
+	padding: 0px 10px 10px;
+	border: black solid 2px;
+	width: 980px;
+	margin-top: 10px;
+
+}
+
+#logo2 {
+	float: right;
+
+}
+
+#tabla {
+	background-color: pink;
+	text-align: center;
+	border: 5px violet solid;
+}
+
+#tabla caption {
+	background-color: violet;
+	color: blue;
+	padding-top: 5px;
+}
+#tabla th {
+	background-color: hotpink;
+}
+
+#centrado {
+	text-align: center;
+}
+.button{
+	background-color: red;
+
+}
+#aside{
+	overflow: hidden;
+}
+
+aside.formulario {
+	text-align: center;
+	margin: 0px auto;
+	margin-bottom: 50px;
+}
+
+input.btn {
+	background-color: darkviolet;
+	color: blue;
+}
+
+
+.formulario h5 { 
+	background-color: violet;
+	width: 550px;
+	margin: 0px auto;
+	margin-bottom: 5px;
+	padding: 9px;
+	border-radius: 10px;
+}
+.formulario h4 {
+	background-color: red;
+	width: 550px;
+	margin: 0px auto;
+	margin-bottom: 5px;
+	padding: 9px;
+	border-radius: 10px;
